@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    float num1, num2, sum=0,product,subtraction;
+    float division;
+    cout<< "Enter the first number:";
+    cin>>num1;
+    cout<< "Enter the second number:";
+    cin>>num2;
+    sum=num1+num2;
+    cout<<"\nSum of given numbers:\n"<<sum;
+    product=num1*num2;
+    cout<<"\nThe product of num1 and num2 is:\n"<<product;
+    division=num1/num2;
+    cout<<"\nThe division of num1 and num2 is:\n"<<division;
+    subtraction=num1-num2;
+    cout<<"\nThe subtraction of num1 and num2 is:\n"<<subtraction;
+}
