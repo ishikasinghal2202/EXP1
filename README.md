@@ -1,4 +1,6 @@
 # EXP1
+# Name : Ishika SInghal
+# PRN : 24070123048
 AIM : write a C program to print Hello world & perform various calculator operators
 
 
