@@ -37,15 +37,19 @@ THEORY:
 
 OUTPUT: 
     for hello world code--
-                          Hello World
+                          Hello, World!
 
     for calculator program--
-                          Enter the first number: 8
-                          Enter the second number: 4
-                          Sum of the given numbers: 12
-                          The product of num1 and num2: 32
-                          The division of num1 and num2: 2
-                          The subraction of num1 and num2: 4
+                         Enter the first number:3
+                         Enter the second number:2
+                         Sum of given numbers:
+                         5
+                         The product of num1 and num2 is:
+                         6
+                         The division of num1 and num2 is:
+                         1.5
+                         The subtraction of num1 and num2 is:
+                         1
                           
                           
 CONCLUSION: This program was very useful for learning the basics of C++ programming.
