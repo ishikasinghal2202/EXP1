@@ -17,6 +17,7 @@ OBJECTIVE:
 
 THEORY:
 
+** C++ is often considered better than C for several reasons, primarily due to its object-oriented programming (OOP) features, improved memory management, and access to a rich set of libraries. While C is simpler and more lightweight, C++ offers more flexibility and features that can make larger, more complex projects easier to manage and maintain
        - <iostream> : it is used to define several headers used in the program. 
        - usingnamespace std; : it tells teh compiler touse the std namespace.
        - main() : the execution of the program begins.
