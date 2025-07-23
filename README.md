@@ -1,4 +1,4 @@
-# EXP1
+# Introduction to C++
 # Name : Ishika Singhal
 # PRN : 24070123048
 AIM : write a C program to print Hello world & perform various calculator operators
