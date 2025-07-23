@@ -16,6 +16,7 @@ OBJECTIVE:
 
 
 THEORY:
+
        - <iostream> : it is used to define several headers used in the program. 
        - usingnamespace std; : it tells teh compiler touse the std namespace.
        - main() : the execution of the program begins.
